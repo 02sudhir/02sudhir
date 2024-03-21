@@ -1,3 +1,4 @@
+![Header](https://github.com/02sudhir/02sudhir/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sudhir Amruskar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
