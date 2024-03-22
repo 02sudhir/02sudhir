@@ -1,6 +1,7 @@
 ![logo](https://github.com/02sudhir/02sudhir/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sudhir Amruskar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 - 🔭 I’m currently working on **Mern Projects**
 
