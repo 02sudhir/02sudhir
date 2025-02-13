@@ -1,7 +1,15 @@
+<!-- Banner Image -->
+![logo](https://github.com/02sudhir/02sudhir/blob/main/github-header-image.png)
+
+<h1 align="center">Hi 👋, I'm Sudhir Amruskar</h1>
+<h3 align="center">🚀 A Passionate Software Engineer & DevOps Enthusiast from India</h3>
+
+<!-- ASCII Header Removed to Avoid YAML Parsing Issues -->
+
 ---
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="280px"/>
- 
+
 - 🔭 I’m currently working on **Cloud & DevOps Automation**
 - 🚀 Always learning **AWS | Kubernetes | CI/CD | Docker | Terraform**
 - 📫 How to reach me **sudhiramruskar@gmail.com**
