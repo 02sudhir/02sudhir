@@ -3,9 +3,8 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img  align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🔭 I’m currently working on **Mern Projects**
+- 🔭 I’m currently working on **DevOps Projects**
 
-- 🌱 I’m currently learning **Node.js,React.js,Javascript,Pyhton,AWS,express.js,MongoDB,SQL**
 
 - 📫 How to reach me **sudhiramruskar@gmail.com**
 
