@@ -86,9 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=02sudhir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02sudhir&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
