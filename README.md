@@ -94,17 +94,11 @@
 
 ## 📈 **Recent GitHub Activity**
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=02sudhir&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=02sudhir&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
----
 
-## 🎵 **Now Playing on Spotify**
-<p align="center">
-  <img src="https://novatorem-02sudhir.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
 
----
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
